@@ -1,0 +1,22 @@
+{
+  "name": "track-interview",
+  "version": "0.0.1",
+  "description": "interview for track",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iusetrack/interview.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iusetrack/interview/issues"
+  },
+  "homepage": "https://github.com/iusetrack/interview#readme",
+  "dependencies": {
+    "axios": "^0.20.0"
+  }
+}
