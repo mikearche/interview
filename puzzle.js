@@ -15,6 +15,8 @@ const puzzle = (peopleInRoom, n) => {
     cutOffHead(peopleInRoomArray, 0, n)
 }
 
+export default puzzle;
+
 
 /**
  * [1,2,3,4,5,6,7]
